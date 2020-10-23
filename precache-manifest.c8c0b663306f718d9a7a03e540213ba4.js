@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1ba60a607739af90b9257fa68561675",
+    "revision": "845c7f9920ef7067497e18bdcc9e5d8e",
     "url": "/Bootcamp_for_developers/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bootcamp_for_developers/static/css/2.e0686c58.chunk.css"
   },
   {
-    "revision": "5e4be1cbd6983cebc5d9",
+    "revision": "fbc14184c9b6623cbea8",
     "url": "/Bootcamp_for_developers/static/css/main.3eec10be.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bootcamp_for_developers/static/js/2.2ef75aed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e4be1cbd6983cebc5d9",
-    "url": "/Bootcamp_for_developers/static/js/main.54c7408d.chunk.js"
+    "revision": "fbc14184c9b6623cbea8",
+    "url": "/Bootcamp_for_developers/static/js/main.c585b928.chunk.js"
   },
   {
     "revision": "17ac06005be317bb4654f8392e8f79d3",
-    "url": "/Bootcamp_for_developers/static/js/main.54c7408d.chunk.js.LICENSE.txt"
+    "url": "/Bootcamp_for_developers/static/js/main.c585b928.chunk.js.LICENSE.txt"
   },
   {
     "revision": "4d3fdfef8e3af9ed9466",

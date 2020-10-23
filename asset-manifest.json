@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Bootcamp_for_developers/static/css/main.3eec10be.chunk.css",
-    "main.js": "/Bootcamp_for_developers/static/js/main.54c7408d.chunk.js",
-    "main.js.map": "/Bootcamp_for_developers/static/js/main.54c7408d.chunk.js.map",
+    "main.js": "/Bootcamp_for_developers/static/js/main.c585b928.chunk.js",
+    "main.js.map": "/Bootcamp_for_developers/static/js/main.c585b928.chunk.js.map",
     "runtime-main.js": "/Bootcamp_for_developers/static/js/runtime-main.61209dd1.js",
     "runtime-main.js.map": "/Bootcamp_for_developers/static/js/runtime-main.61209dd1.js.map",
     "static/css/2.e0686c58.chunk.css": "/Bootcamp_for_developers/static/css/2.e0686c58.chunk.css",
     "static/js/2.2ef75aed.chunk.js": "/Bootcamp_for_developers/static/js/2.2ef75aed.chunk.js",
     "static/js/2.2ef75aed.chunk.js.map": "/Bootcamp_for_developers/static/js/2.2ef75aed.chunk.js.map",
     "index.html": "/Bootcamp_for_developers/index.html",
-    "precache-manifest.5d16441365d431b1729aacdbd2c36481.js": "/Bootcamp_for_developers/precache-manifest.5d16441365d431b1729aacdbd2c36481.js",
+    "precache-manifest.c8c0b663306f718d9a7a03e540213ba4.js": "/Bootcamp_for_developers/precache-manifest.c8c0b663306f718d9a7a03e540213ba4.js",
     "service-worker.js": "/Bootcamp_for_developers/service-worker.js",
     "static/css/2.e0686c58.chunk.css.map": "/Bootcamp_for_developers/static/css/2.e0686c58.chunk.css.map",
     "static/css/main.3eec10be.chunk.css.map": "/Bootcamp_for_developers/static/css/main.3eec10be.chunk.css.map",
     "static/js/2.2ef75aed.chunk.js.LICENSE.txt": "/Bootcamp_for_developers/static/js/2.2ef75aed.chunk.js.LICENSE.txt",
-    "static/js/main.54c7408d.chunk.js.LICENSE.txt": "/Bootcamp_for_developers/static/js/main.54c7408d.chunk.js.LICENSE.txt",
+    "static/js/main.c585b928.chunk.js.LICENSE.txt": "/Bootcamp_for_developers/static/js/main.c585b928.chunk.js.LICENSE.txt",
     "static/media/Block_policy_Energetics.jpg": "/Bootcamp_for_developers/static/media/Block_policy_Energetics.447dd7f3.jpg",
     "static/media/Block_policy_Energy.jpg": "/Bootcamp_for_developers/static/media/Block_policy_Energy.d37cb533.jpg",
     "static/media/Block_policy_Industry.jpg": "/Bootcamp_for_developers/static/media/Block_policy_Industry.bfe2e718.jpg",
@@ -40,6 +40,6 @@
     "static/css/2.e0686c58.chunk.css",
     "static/js/2.2ef75aed.chunk.js",
     "static/css/main.3eec10be.chunk.css",
-    "static/js/main.54c7408d.chunk.js"
+    "static/js/main.c585b928.chunk.js"
   ]
 }
