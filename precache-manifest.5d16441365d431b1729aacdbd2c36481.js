@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "653ce8eea93d0a573ec13a950883823f",
+    "revision": "e1ba60a607739af90b9257fa68561675",
     "url": "/Bootcamp_for_developers/index.html"
   },
   {
-    "revision": "1a49cc0d98a3a51edb28",
+    "revision": "eea71b70fe91b58bfb9a",
     "url": "/Bootcamp_for_developers/static/css/2.e0686c58.chunk.css"
   },
   {
-    "revision": "4a51ac9e9465449333e6",
-    "url": "/Bootcamp_for_developers/static/css/main.45aea5ee.chunk.css"
+    "revision": "5e4be1cbd6983cebc5d9",
+    "url": "/Bootcamp_for_developers/static/css/main.3eec10be.chunk.css"
   },
   {
-    "revision": "1a49cc0d98a3a51edb28",
-    "url": "/Bootcamp_for_developers/static/js/2.a51c33eb.chunk.js"
+    "revision": "eea71b70fe91b58bfb9a",
+    "url": "/Bootcamp_for_developers/static/js/2.2ef75aed.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Bootcamp_for_developers/static/js/2.a51c33eb.chunk.js.LICENSE.txt"
+    "url": "/Bootcamp_for_developers/static/js/2.2ef75aed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a51ac9e9465449333e6",
-    "url": "/Bootcamp_for_developers/static/js/main.5312b404.chunk.js"
+    "revision": "5e4be1cbd6983cebc5d9",
+    "url": "/Bootcamp_for_developers/static/js/main.54c7408d.chunk.js"
   },
   {
     "revision": "17ac06005be317bb4654f8392e8f79d3",
-    "url": "/Bootcamp_for_developers/static/js/main.5312b404.chunk.js.LICENSE.txt"
+    "url": "/Bootcamp_for_developers/static/js/main.54c7408d.chunk.js.LICENSE.txt"
   },
   {
     "revision": "4d3fdfef8e3af9ed9466",
@@ -54,6 +54,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ecbc7a4278787a254033eac61c445a65",
     "url": "/Bootcamp_for_developers/static/media/Block_policy_Urban_planning.ecbc7a42.jpg"
+  },
+  {
+    "revision": "919cbf86a95f28b63466fbdfa8b4567f",
+    "url": "/Bootcamp_for_developers/static/media/Global_mobile.919cbf86.svg"
+  },
+  {
+    "revision": "780cc2803523d297836cce598574e464",
+    "url": "/Bootcamp_for_developers/static/media/ITN_mobile.780cc280.svg"
+  },
+  {
+    "revision": "63671d590d956e7daf3defd867c6fc91",
+    "url": "/Bootcamp_for_developers/static/media/North_mobile.63671d59.svg"
   },
   {
     "revision": "d3a6a7b0391706f583d0210c3165df2b",
