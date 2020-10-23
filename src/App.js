@@ -157,13 +157,6 @@ function App() {
     </Media>
 
 
-
-
-               <Second_block_base_facts
-               Second_block_base_facts_title = "Основные факты" 
-               Second_block_base_facts_slides = {Second_block_base_facts_slides_mas}
-              />
-
               <Section_map/>
 
               <Block_policy 
