@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+@import "reset";
+
+*{
+font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background-color:#737373;
+}
+
+.Headblock_container{
+  max-width: 1283px;
+  margin: 0 auto;
+}
+
+.Headblock_container_mobile{
+  max-width: 414px;
+  height: 819px;
+  margin: 0 auto;
+}
+
+
+
+
+.preloader {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  background: #fff;
+  z-index: 1001;
+}
+
+
+
+
+.preloader__image {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  width: 64px;
+  height: 64px;
+  margin-top: -32px;
+  margin-left: -32px;
+  background: url('./assets/Headblock/headblock_North.svg') no-repeat 50% 50%; 
+}
+
+.loaded_hiding .preloader {
+  transition: 0.3s opacity;
+  opacity: 0;
+}
+
+.loaded .preloader {
+  display: none;
+}
+

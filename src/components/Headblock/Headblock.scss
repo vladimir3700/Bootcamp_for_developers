@@ -1,0 +1,52 @@
+.Headblock_Page_container{
+  background-image:linear-gradient(to top,rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../../assets/Headblock/headblock_background_image.jpg');
+  background-size: cover;
+  padding: 80px 0px 178px;
+}
+
+.Headblock_head_title{
+  color: #FFFFFF;
+  font-weight: normal;
+  font-size: 57px;
+  line-height: 67px;
+  margin: 108px 0 132px;
+  width: 664px;
+}
+
+.Headblock_button{
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px; 
+  color: #FFFFFF;
+  background: #B78A3F;
+  padding: 35px 151px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.Headblock_style_nav_links{
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 22px;
+  margin-top: 45px;
+  text-decoration: none;
+  color: #FFFFFF;
+  margin-left: 74px;
+}
+
+.Headblock_style_nav_links:first-child{
+  margin-left: 0px;
+}
+
+.Headblock_header_partners_logo{
+  display: flex;
+  align-items: center;
+}
+
+.Headblock_style_logos_svg{
+  margin-left: 60px;
+}
+
+.Headblock_style_logos_svg:first-child{
+  margin-left: 0px;
+}

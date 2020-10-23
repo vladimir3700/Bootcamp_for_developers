@@ -1,0 +1,60 @@
+.Headblock_Page_container_mobile{
+  background-image:linear-gradient(to top,rgba(22,22,22,0.31),rgba(22,22,22,0.31)), url('../../assets/Headblock/headblock_background_image.jpg');
+  background-size: cover;
+  padding: 8px 0px 14px;
+}
+
+.Headblock_head_title_mobile{
+  color: #FFFFFF;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  margin: 214.72px 20px 267px;
+  width: 374px;
+}
+
+.Headblock_button_mobile{
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 33px; 
+  color: #FFFFFF;
+  background: #B78A3F;
+  padding: 24px 136px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.Headblock_style_nav_links_mobile{
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 22px;
+  margin-top: 45px;
+  text-decoration: none;
+  color: #FFFFFF;
+  margin-left: 74px;
+}
+
+.Headblock_style_nav_links_mobile:first-child{
+  margin-left: 0px;
+}
+
+.Headblock_header_partners_logo_mobile{
+  display: flex;
+  align-items: center;
+}
+
+.Headblock_style_logos_svg_mobile{
+  margin-left: 22.61px;
+  
+}
+
+.Headblock_style_logos_svg_mobile:first-child{
+  margin-left: 7px;
+  //margin-top: 8px;
+}
+
+.Hamburger_mobile_menu{
+  color: #FFFFFF;
+  align-items: right;
+  direction: right;
+}
