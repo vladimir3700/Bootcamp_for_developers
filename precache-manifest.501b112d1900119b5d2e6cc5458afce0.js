@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "939af2632f70a8da1d90808a99e121a1",
+    "revision": "2eb4c7d55c98cfa492ef51b36e570422",
     "url": "/Bootcamp_for_developers/index.html"
   },
   {
-    "revision": "c892d74f0ffe0403416c",
+    "revision": "4e7d155f349a8a2d3ce8",
     "url": "/Bootcamp_for_developers/static/css/2.e0686c58.chunk.css"
   },
   {
-    "revision": "37fe82b01de61814a744",
-    "url": "/Bootcamp_for_developers/static/css/main.a6093dc0.chunk.css"
+    "revision": "1c0b8b3c18c574e25698",
+    "url": "/Bootcamp_for_developers/static/css/main.5c238d48.chunk.css"
   },
   {
-    "revision": "c892d74f0ffe0403416c",
-    "url": "/Bootcamp_for_developers/static/js/2.e3bfec3e.chunk.js"
+    "revision": "4e7d155f349a8a2d3ce8",
+    "url": "/Bootcamp_for_developers/static/js/2.55ca0c67.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Bootcamp_for_developers/static/js/2.e3bfec3e.chunk.js.LICENSE.txt"
+    "url": "/Bootcamp_for_developers/static/js/2.55ca0c67.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37fe82b01de61814a744",
-    "url": "/Bootcamp_for_developers/static/js/main.ff2797a8.chunk.js"
+    "revision": "1c0b8b3c18c574e25698",
+    "url": "/Bootcamp_for_developers/static/js/main.f13a9177.chunk.js"
   },
   {
     "revision": "17ac06005be317bb4654f8392e8f79d3",
-    "url": "/Bootcamp_for_developers/static/js/main.ff2797a8.chunk.js.LICENSE.txt"
+    "url": "/Bootcamp_for_developers/static/js/main.f13a9177.chunk.js.LICENSE.txt"
   },
   {
     "revision": "4d3fdfef8e3af9ed9466",
@@ -56,6 +56,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bootcamp_for_developers/static/media/Block_policy_Urban_planning.ecbc7a42.jpg"
   },
   {
+    "revision": "f1ffb3c89aa7d7a148286098f7c00d3a",
+    "url": "/Bootcamp_for_developers/static/media/Calculator.f1ffb3c8.jpg"
+  },
+  {
+    "revision": "e1c72e3ae9842d165cd63d1d5f6017a3",
+    "url": "/Bootcamp_for_developers/static/media/Flower.e1c72e3a.jpg"
+  },
+  {
     "revision": "919cbf86a95f28b63466fbdfa8b4567f",
     "url": "/Bootcamp_for_developers/static/media/Global_mobile.919cbf86.svg"
   },
@@ -64,8 +72,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bootcamp_for_developers/static/media/ITN_mobile.780cc280.svg"
   },
   {
+    "revision": "f7391fda09455a2f0011fa0ccb36b117",
+    "url": "/Bootcamp_for_developers/static/media/Man_1.f7391fda.jpg"
+  },
+  {
+    "revision": "9a954198d53f3704073b050446b91d9e",
+    "url": "/Bootcamp_for_developers/static/media/Man_2.9a954198.jpg"
+  },
+  {
     "revision": "63671d590d956e7daf3defd867c6fc91",
     "url": "/Bootcamp_for_developers/static/media/North_mobile.63671d59.svg"
+  },
+  {
+    "revision": "fadc39dbabce2e0f61022291c66e6368",
+    "url": "/Bootcamp_for_developers/static/media/Woman_children.fadc39db.jpg"
   },
   {
     "revision": "d3a6a7b0391706f583d0210c3165df2b",
