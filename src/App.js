@@ -20,6 +20,7 @@ import Second_block_base_facts_mobile from './components/Second_block_base_facts
 import Section_map_mobile from './components/Section_map_mobile/Section_map_mobile';
 import Footer_section_mobile from './components/Footer_section_mobile/Footer_section_mobile';
 
+
 function App() {
   const size_Object = UseScreenSize();
   console.log(size_Object);
@@ -84,6 +85,41 @@ function App() {
 
   ]
 
+  const Second_block_base_facts_slides_mas_mobile = [
+    
+    {
+      id: '0007',
+      Second_block_slide_url_mobile: require("./assets/Second_block_base_facts_mobile/Woman_children.jpg"),
+      Second_block_description_mobile: "Женщины и дети – главные жертвы загрязнения воздуха"
+    },
+
+    {
+      id: '0008',
+      Second_block_slide_url_mobile: require("./assets/Second_block_base_facts_mobile/Man_1.jpg"),
+      Second_block_description_mobile: "Защитники окружающей среды подвергаются преследованиям"
+    },
+    
+    {
+      id: '0009',
+      Second_block_slide_url_mobile: require("./assets/Second_block_base_facts_mobile/Man_2.jpg"),
+      Second_block_description_mobile: "Загрязнение воздуха – нарушение прав человека"
+    },
+
+    {
+      id: '0010',
+      Second_block_slide_url_mobile: require("./assets/Second_block_base_facts_mobile/Flower.jpg"),
+      Second_block_description_mobile: "4,2 миллиона случаев преждевременной смерти людей из-за загрязнения атмосферного воздуха"
+    },
+
+    {
+      id: '0011',
+      Second_block_slide_url_mobile: require("./assets/Second_block_base_facts_mobile/Calculator.jpg"),
+      Second_block_description_mobile: "Согласно оценкам, суммарный объем затрат в связи с загрязнением воздуха превышает 5 трлн долл. в год."
+    }
+
+  ]
+
+
   const Block_policy_pictures_with_description = [
   {
     block_policy_name : "Промышленность",
@@ -145,9 +181,9 @@ function App() {
           {matches =>
             matches.small ? (
               
-              <Second_block_base_facts_mobile
-              Second_block_base_facts_title = "Основные факты" 
-              Second_block_base_facts_slides = {Second_block_base_facts_slides_mas}
+            <Second_block_base_facts_mobile
+              Second_block_base_facts_title_mobile = "Основные факты" 
+              Second_block_base_facts_slides_mobile = {Second_block_base_facts_slides_mas_mobile}
              />
                
             ) : (
