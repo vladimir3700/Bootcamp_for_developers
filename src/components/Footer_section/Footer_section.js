@@ -1,5 +1,5 @@
 import React from 'react';
-import './Footer_section.scss'
+import './Footer_section.scss';
 
 const Footer_section = ({Footer_logo_items, Footer_links}) => {
   const Footer_partner_pictures = Footer_logo_items.map((footer_logo,i) => <img key={i} src={footer_logo} 

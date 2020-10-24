@@ -18,6 +18,7 @@ import Media from 'react-media';
 import Headblock_mobile from './components/Headblock_mobile/Headblock_mobile';
 import Second_block_base_facts_mobile from './components/Second_block_base_facts_mobile/Second_block_base_facts_mobile';
 import Section_map_mobile from './components/Section_map_mobile/Section_map_mobile';
+import Footer_section_mobile from './components/Footer_section_mobile/Footer_section_mobile';
 
 function App() {
   const size_Object = UseScreenSize();
@@ -178,12 +179,26 @@ function App() {
                Block_policy_pictures = {Block_policy_pictures_with_description} 
               />
 
+              <Media queries={{ small: { maxWidth: 414 } }}>
+              {matches =>
+              matches.small ? (
+              
+                <Footer_section_mobile Footer_logo_items_mobile={headblock_logo_partners_images_mobile} 
+                Footer_links={headblock_nav_menu_links}
+                />
+               
+              ) : (
+
+                <Footer_section Footer_logo_items={headblock_logo_partners_images} 
+                Footer_links={headblock_nav_menu_links}
+                />
+              )
+              }
+              </Media>
 
 
 
-              <Footer_section Footer_logo_items={headblock_logo_partners_images} 
-                    Footer_links={headblock_nav_menu_links}
-                    />
+             
     </>
   );
 }
