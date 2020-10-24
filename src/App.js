@@ -19,6 +19,7 @@ import Headblock_mobile from './components/Headblock_mobile/Headblock_mobile';
 import Second_block_base_facts_mobile from './components/Second_block_base_facts_mobile/Second_block_base_facts_mobile';
 import Section_map_mobile from './components/Section_map_mobile/Section_map_mobile';
 import Footer_section_mobile from './components/Footer_section_mobile/Footer_section_mobile';
+import Block_policy_mobile from './components/Block_policy_mobile/Block_policy_mobile';
 
 
 function App() {
@@ -153,6 +154,39 @@ function App() {
   }
 ]
 
+const Block_policy_pictures_with_description_mobile = [
+  {
+    block_policy_name_mobile : "Промышленность",
+    block_policy_description_mobile : "Чистые технологии, способствующие уменьшению выбросов из промышленных дымовых труб; улучшенная утилизация городских и сельскохозяйственных отходов, включая каптаж (улавливание) метана, выделяемого в местах утилизации отходов, в качестве варианта, альтернативного сжиганию (для использования в качестве биогаза)",
+    block_policy_pic_itemurl_mobile : require('./assets/Block_policy_mobile/mobile_Industry.jpg')
+  },
+  {
+    block_policy_name_mobile : "Транспорт",
+    block_policy_description_mobile : "Переход к чистым способам выработки энергии; уделение приоритетного внимания скоростному городскому транспорту, пешеходным и велосипедным сетям в городах, а также железнодорожным междугородным грузовым и пассажирским перевозкам; переход к использованию более чистых большегрузных дизельных транспортных средств и автомобилей с низким уровнем выбросов, а также более чистых видов топлива, включая топливо со сниженной концентрацией серы",
+    block_policy_pic_itemurl_mobile : require('./assets/Block_policy_mobile/mobile_Transport.jpg')
+  },
+  {
+    block_policy_name_mobile : "Городское планирование",
+    block_policy_description_mobile : "Улучшение энергетической эффективности зданий и обеспечение более зеленых и компактных и тем самым более энергоэффективных городов",
+    block_policy_pic_itemurl_mobile : require('./assets/Block_policy_mobile/mobile_Urban_planning.jpg') 
+  },
+  {
+    block_policy_name_mobile : "Энергия",
+    block_policy_description_mobile : "Обеспечение доступа к недорогостоящим источникам энергии в быту для приготовления пищи, отопления и освещения",
+    block_policy_pic_itemurl_mobile : require('./assets/Block_policy_mobile/mobile_Energy.jpg')
+  },
+  {
+    block_policy_name_mobile : "Энергетика",
+    block_policy_description_mobile : "Более широкое использование видов топлива с низким уровнем выбросов и возобновляемых источников энергии, не основанных на сжигании (таких как энергия солнца, ветра или гидроэнергия); комбинированная выработка тепла и энергии; и распределенная выработка энергии (например, энергетические минисистемы и размещаемые на крыше установки для выработки энергии из солнечной энергии)",
+    block_policy_pic_itemurl_mobile : require('./assets/Block_policy_mobile/mobile_Energetics.jpg')
+  },
+  {
+    block_policy_name_mobile : "Утилизация отходов",
+    block_policy_description_mobile : "стратегии уменьшения отходов, сортировки отходов, рециклирования, повторного использования или переработки отходов; а также улучшенные методы биологической утилизации отходов, такие как анаэробная переработка отходов для производства биогаза, являются практически осуществимыми, недорогими альтернативными вариантами открытому сжиганию твердых отходов",
+    block_policy_pic_itemurl_mobile : require('./assets/Block_policy_mobile/mobile_Recycling.jpg')
+  }
+]
+
 
   return (
     <>
@@ -207,13 +241,26 @@ function App() {
           }
     </Media>
 
-
-
+    <Media queries={{ small: { maxWidth: 414 } }}>
+          {matches =>
+            matches.small ? (
+              <Block_policy_mobile 
+               Block_policy_head_title_mobile = "Политика по уменьшению загрязнений"
+               Block_policy_title_mobile = "Есть много примеров успешной политики по уменьшению загрязнения воздуха в таких секторах, как транспорт, городское планирование, энергетика и промышленность:"
+               Block_policy_pictures_mobile = {Block_policy_pictures_with_description_mobile} 
+              />
+               
+            ) : (
               <Block_policy 
                Block_policy_head_title = "Политика по уменьшению загрязнений"
                Block_policy_title = "Есть много примеров успешной политики по уменьшению загрязнения воздуха в таких секторах, как транспорт, городское планирование, энергетика и промышленность:"
                Block_policy_pictures = {Block_policy_pictures_with_description} 
               />
+            )
+          }
+    </Media>
+
+
 
               <Media queries={{ small: { maxWidth: 414 } }}>
               {matches =>
