@@ -16,6 +16,8 @@ import Footer_section from './components/Footer_section/Footer_section';
 import Section_map from './components/Section_map/Section_map';
 import Media from 'react-media';
 import Headblock_mobile from './components/Headblock_mobile/Headblock_mobile';
+import Second_block_base_facts_mobile from './components/Second_block_base_facts_mobile/Second_block_base_facts_mobile';
+import Section_map_mobile from './components/Section_map_mobile/Section_map_mobile';
 
 function App() {
   const size_Object = UseScreenSize();
@@ -142,7 +144,7 @@ function App() {
           {matches =>
             matches.small ? (
               
-              <Second_block_base_facts
+              <Second_block_base_facts_mobile
               Second_block_base_facts_title = "Основные факты" 
               Second_block_base_facts_slides = {Second_block_base_facts_slides_mas}
              />
@@ -155,15 +157,29 @@ function App() {
             )
           }
     </Media>
-
-
+    
+    <Media queries={{ small: { maxWidth: 414 } }}>
+          {matches =>
+            matches.small ? (
+              
+              <Section_map_mobile/>
+               
+            ) : (
               <Section_map/>
+            )
+          }
+    </Media>
+
+
 
               <Block_policy 
                Block_policy_head_title = "Политика по уменьшению загрязнений"
                Block_policy_title = "Есть много примеров успешной политики по уменьшению загрязнения воздуха в таких секторах, как транспорт, городское планирование, энергетика и промышленность:"
                Block_policy_pictures = {Block_policy_pictures_with_description} 
               />
+
+
+
 
               <Footer_section Footer_logo_items={headblock_logo_partners_images} 
                     Footer_links={headblock_nav_menu_links}
