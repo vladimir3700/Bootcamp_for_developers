@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2eb4c7d55c98cfa492ef51b36e570422",
+    "revision": "74e376b0898369214d709ebe4042abd4",
     "url": "/Bootcamp_for_developers/index.html"
   },
   {
-    "revision": "4e7d155f349a8a2d3ce8",
+    "revision": "d0b98b7aae4e5406d0f2",
     "url": "/Bootcamp_for_developers/static/css/2.e0686c58.chunk.css"
   },
   {
-    "revision": "1c0b8b3c18c574e25698",
-    "url": "/Bootcamp_for_developers/static/css/main.5c238d48.chunk.css"
+    "revision": "92214257564311a5eff5",
+    "url": "/Bootcamp_for_developers/static/css/main.bbe5dfc6.chunk.css"
   },
   {
-    "revision": "4e7d155f349a8a2d3ce8",
-    "url": "/Bootcamp_for_developers/static/js/2.55ca0c67.chunk.js"
+    "revision": "d0b98b7aae4e5406d0f2",
+    "url": "/Bootcamp_for_developers/static/js/2.18689e3b.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Bootcamp_for_developers/static/js/2.55ca0c67.chunk.js.LICENSE.txt"
+    "url": "/Bootcamp_for_developers/static/js/2.18689e3b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c0b8b3c18c574e25698",
-    "url": "/Bootcamp_for_developers/static/js/main.f13a9177.chunk.js"
+    "revision": "92214257564311a5eff5",
+    "url": "/Bootcamp_for_developers/static/js/main.2e286b78.chunk.js"
   },
   {
     "revision": "17ac06005be317bb4654f8392e8f79d3",
-    "url": "/Bootcamp_for_developers/static/js/main.f13a9177.chunk.js.LICENSE.txt"
+    "url": "/Bootcamp_for_developers/static/js/main.2e286b78.chunk.js.LICENSE.txt"
   },
   {
     "revision": "4d3fdfef8e3af9ed9466",
@@ -122,6 +122,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "54f87ec43c16252e0930b4c8720f262f",
     "url": "/Bootcamp_for_developers/static/media/m_2.54f87ec4.jpg"
+  },
+  {
+    "revision": "a9d796afc0e968e75390e2f4e9c195c9",
+    "url": "/Bootcamp_for_developers/static/media/mobile_Energetics.a9d796af.jpg"
+  },
+  {
+    "revision": "08e73906b84a1ab37f8f8b72e2cd895d",
+    "url": "/Bootcamp_for_developers/static/media/mobile_Energy.08e73906.jpg"
+  },
+  {
+    "revision": "39c799f66a2141fcac2c9d7d3162c7f7",
+    "url": "/Bootcamp_for_developers/static/media/mobile_Industry.39c799f6.jpg"
+  },
+  {
+    "revision": "b6f022dc859faa729c2abdc4201bb6cc",
+    "url": "/Bootcamp_for_developers/static/media/mobile_Recycling.b6f022dc.jpg"
+  },
+  {
+    "revision": "8f9d283bb1e7ae0518c689fc2dab8c5f",
+    "url": "/Bootcamp_for_developers/static/media/mobile_Transport.8f9d283b.jpg"
+  },
+  {
+    "revision": "e6d8d709dd1fbe0f9a9d47e0a6012d93",
+    "url": "/Bootcamp_for_developers/static/media/mobile_Urban_planning.e6d8d709.jpg"
   },
   {
     "revision": "5574d6ecf65ccb0a6c22c237a02acaa5",

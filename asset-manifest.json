@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Bootcamp_for_developers/static/css/main.5c238d48.chunk.css",
-    "main.js": "/Bootcamp_for_developers/static/js/main.f13a9177.chunk.js",
-    "main.js.map": "/Bootcamp_for_developers/static/js/main.f13a9177.chunk.js.map",
+    "main.css": "/Bootcamp_for_developers/static/css/main.bbe5dfc6.chunk.css",
+    "main.js": "/Bootcamp_for_developers/static/js/main.2e286b78.chunk.js",
+    "main.js.map": "/Bootcamp_for_developers/static/js/main.2e286b78.chunk.js.map",
     "runtime-main.js": "/Bootcamp_for_developers/static/js/runtime-main.61209dd1.js",
     "runtime-main.js.map": "/Bootcamp_for_developers/static/js/runtime-main.61209dd1.js.map",
     "static/css/2.e0686c58.chunk.css": "/Bootcamp_for_developers/static/css/2.e0686c58.chunk.css",
-    "static/js/2.55ca0c67.chunk.js": "/Bootcamp_for_developers/static/js/2.55ca0c67.chunk.js",
-    "static/js/2.55ca0c67.chunk.js.map": "/Bootcamp_for_developers/static/js/2.55ca0c67.chunk.js.map",
+    "static/js/2.18689e3b.chunk.js": "/Bootcamp_for_developers/static/js/2.18689e3b.chunk.js",
+    "static/js/2.18689e3b.chunk.js.map": "/Bootcamp_for_developers/static/js/2.18689e3b.chunk.js.map",
     "index.html": "/Bootcamp_for_developers/index.html",
-    "precache-manifest.501b112d1900119b5d2e6cc5458afce0.js": "/Bootcamp_for_developers/precache-manifest.501b112d1900119b5d2e6cc5458afce0.js",
+    "precache-manifest.479ef28819c8c68960dba2d22b0ff83c.js": "/Bootcamp_for_developers/precache-manifest.479ef28819c8c68960dba2d22b0ff83c.js",
     "service-worker.js": "/Bootcamp_for_developers/service-worker.js",
     "static/css/2.e0686c58.chunk.css.map": "/Bootcamp_for_developers/static/css/2.e0686c58.chunk.css.map",
-    "static/css/main.5c238d48.chunk.css.map": "/Bootcamp_for_developers/static/css/main.5c238d48.chunk.css.map",
-    "static/js/2.55ca0c67.chunk.js.LICENSE.txt": "/Bootcamp_for_developers/static/js/2.55ca0c67.chunk.js.LICENSE.txt",
-    "static/js/main.f13a9177.chunk.js.LICENSE.txt": "/Bootcamp_for_developers/static/js/main.f13a9177.chunk.js.LICENSE.txt",
+    "static/css/main.bbe5dfc6.chunk.css.map": "/Bootcamp_for_developers/static/css/main.bbe5dfc6.chunk.css.map",
+    "static/js/2.18689e3b.chunk.js.LICENSE.txt": "/Bootcamp_for_developers/static/js/2.18689e3b.chunk.js.LICENSE.txt",
+    "static/js/main.2e286b78.chunk.js.LICENSE.txt": "/Bootcamp_for_developers/static/js/main.2e286b78.chunk.js.LICENSE.txt",
     "static/media/Block_policy_Energetics.jpg": "/Bootcamp_for_developers/static/media/Block_policy_Energetics.447dd7f3.jpg",
     "static/media/Block_policy_Energy.jpg": "/Bootcamp_for_developers/static/media/Block_policy_Energy.d37cb533.jpg",
     "static/media/Block_policy_Industry.jpg": "/Bootcamp_for_developers/static/media/Block_policy_Industry.bfe2e718.jpg",
@@ -38,13 +38,19 @@
     "static/media/logo.svg": "/Bootcamp_for_developers/static/media/logo.5d5d9eef.svg",
     "static/media/m_1.jpg": "/Bootcamp_for_developers/static/media/m_1.261b9856.jpg",
     "static/media/m_2.jpg": "/Bootcamp_for_developers/static/media/m_2.54f87ec4.jpg",
+    "static/media/mobile_Energetics.jpg": "/Bootcamp_for_developers/static/media/mobile_Energetics.a9d796af.jpg",
+    "static/media/mobile_Energy.jpg": "/Bootcamp_for_developers/static/media/mobile_Energy.08e73906.jpg",
+    "static/media/mobile_Industry.jpg": "/Bootcamp_for_developers/static/media/mobile_Industry.39c799f6.jpg",
+    "static/media/mobile_Recycling.jpg": "/Bootcamp_for_developers/static/media/mobile_Recycling.b6f022dc.jpg",
+    "static/media/mobile_Transport.jpg": "/Bootcamp_for_developers/static/media/mobile_Transport.8f9d283b.jpg",
+    "static/media/mobile_Urban_planning.jpg": "/Bootcamp_for_developers/static/media/mobile_Urban_planning.e6d8d709.jpg",
     "static/media/women_children.jpg": "/Bootcamp_for_developers/static/media/women_children.5574d6ec.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.61209dd1.js",
     "static/css/2.e0686c58.chunk.css",
-    "static/js/2.55ca0c67.chunk.js",
-    "static/css/main.5c238d48.chunk.css",
-    "static/js/main.f13a9177.chunk.js"
+    "static/js/2.18689e3b.chunk.js",
+    "static/css/main.bbe5dfc6.chunk.css",
+    "static/js/main.2e286b78.chunk.js"
   ]
 }
