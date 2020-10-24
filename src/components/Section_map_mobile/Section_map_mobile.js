@@ -23,6 +23,8 @@ const Section_map_mobile = () => {
       zoom: Section_map_info_mobile.zoom
   }
   );
+  map.addControl(new mapboxgl.NavigationControl());
+  map.scrollZoom.disable();
 }, [])
   
   return (
