@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7aab1988cff213b08b749b589e321f18",
+    "revision": "a72d2741aa2357b1e691b7bc72ce8f9e",
     "url": "/Bootcamp_for_developers/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bootcamp_for_developers/static/css/2.e0686c58.chunk.css"
   },
   {
-    "revision": "4e7e6605b84fe3c7a759",
-    "url": "/Bootcamp_for_developers/static/css/main.18955d60.chunk.css"
+    "revision": "3968fa2ae4e11f7fede1",
+    "url": "/Bootcamp_for_developers/static/css/main.3f776383.chunk.css"
   },
   {
     "revision": "850e04e2771e5229940e",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bootcamp_for_developers/static/js/2.72a35f87.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e7e6605b84fe3c7a759",
+    "revision": "3968fa2ae4e11f7fede1",
     "url": "/Bootcamp_for_developers/static/js/main.4fab21aa.chunk.js"
   },
   {
