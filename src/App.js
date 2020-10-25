@@ -20,6 +20,7 @@ import Second_block_base_facts_mobile from './components/Second_block_base_facts
 import Section_map_mobile from './components/Section_map_mobile/Section_map_mobile';
 import Footer_section_mobile from './components/Footer_section_mobile/Footer_section_mobile';
 import Block_policy_mobile from './components/Block_policy_mobile/Block_policy_mobile';
+import Hamburger_menu from './components/Hamburger_menu/Hamburger_menu';
 
 
 function App() {
